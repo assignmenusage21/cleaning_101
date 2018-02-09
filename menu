@@ -1,0 +1,78 @@
+========== Description Part Begin ==========
+Title = Normal
+ProgID = PageletServer.DynamicMenu
+LastUpdateTime = 41745.591041667
+PreviewPath = 
+Description = 
+========== Description Part End ==========
+
+========== Parameter Part Begin ==========
+MenuItem0_3 = 0;Application;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\application.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\application.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;application.html#application;_self;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem2_1 = 0;Business;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\streamyx.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\streamyx.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;streamyx_business.html;blank;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuBody0 = 5;auto;0;0;horizontally;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\arrow_r.gif;7;7;0;0;26367;false;;tiled;0;0;none;0;Normal;50;true;0;0;0;0;2;8355711;0;simple;;;;;;;;;;;
+MenuItem0_4 = 0;Contact;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\contact.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\contact.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;contact.html#contact;_self;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuBody1 = 2;auto;0;-3;vertically;;7;7;0;0;13260;true;;tiled;0;0;none;0;Normal;50;true;0;0;0;0;0;8355711;0;none;;;;;;;;;;;
+MenuBody2 = 2;auto;0;-3;vertically;;7;7;0;0;13260;true;;tiled;0;0;none;0;Normal;50;true;0;0;0;0;0;8355711;0;none;;;;;;;;;;;
+TopMenuBody = menu1396405242;static;0;0;left;false;true;310;1000;250;1;;;;
+MenuItem0_0 = 0;Home;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\home.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\home.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;index.html#home;_self;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem1_0 = 0;Home;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\home.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\home.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;unifi_home.html;blank;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_1 = 1;Unifi;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\unifi.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\unifi.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;;;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;none;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem2_0 = 0;Home;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\home.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\home.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;streamyx_home.html;blank;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_2 = 1;Streamyx;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\streamyx.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\streamyx.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;;_self;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;none;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem1_1 = 0;Business;left;middle;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\unifi.jpg;C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\unifi.jpg;100;66;0;normal;1;13555414;true;13555414;true;;1;-1;-1;;;-1;-1;0;;unifi_business.html;blank;Verdana;10;16777215;normal;normal;none;Verdana;10;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+========== Parameter Part End ==========
+
+========== Resource Part Begin ==========
+Resource Number = 21
+stm31.js=C:\PROGRA~2\SOURCE~1\FREESO~1\Resource\=
+blank.gif=C:\PROGRA~2\SOURCE~1\FREESO~1\Resource\=
+arrow_r.gif=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+home.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+home.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+unifi.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+unifi.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+home.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+home.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+unifi.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+unifi.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+streamyx.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+streamyx.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+home.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+home.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+streamyx.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+streamyx.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+application.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+application.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+contact.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+contact.jpg=C:\Users\SHAHIR BERHAD\Desktop\UNIFI STREAMYX\UNIFI STREAMYX\=
+========== Resource Part End ==========
+
+========== HTML Part Begin ==========
+Segment Number = 2
+Segment Position = script
+<script type="text/javascript" language="JavaScript1.2" src="stm31.js"></script>===== Segment End =====
+Segment Position = cursor
+<script type="text/javascript" language="JavaScript1.2">
+<!--
+beginSTM("menu1396405242","static","0","0","left","false","true","310","1000","0","250","","blank.gif");
+beginSTMB("auto","0","0","horizontally","arrow_r.gif","7","7","0","0","#ff6600","","tiled","#000000","0","none","0","Normal","50","0","0","7","7","0","0","2","#7f7f7f","false","#000000","#000000","#000000","simple");
+appendSTMI("true","Home","left","middle","home.jpg","home.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","index.html#home","_self","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","index.html#home","","","tiled","tiled");
+appendSTMI("true","Unifi","left","middle","unifi.jpg","unifi.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","","","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+beginSTMB("auto","0","-3","vertically","","0","0","0","0","transparent","","tiled","#000000","0","none","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");
+appendSTMI("true","Home","left","middle","home.jpg","home.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","unifi_home.html","blank","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","unifi_home.html","","","tiled","tiled");
+appendSTMI("true","Business","left","middle","unifi.jpg","unifi.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","unifi_business.html","blank","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","unifi_business.html","","","tiled","tiled");
+endSTMB();
+appendSTMI("true","Streamyx","left","middle","streamyx.jpg","streamyx.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","","_self","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","none","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+beginSTMB("auto","0","-3","vertically","","0","0","0","0","transparent","","tiled","#000000","0","none","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");
+appendSTMI("true","Home","left","middle","home.jpg","home.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","streamyx_home.html","blank","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","streamyx_home.html","","","tiled","tiled");
+appendSTMI("true","Business","left","middle","streamyx.jpg","streamyx.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","streamyx_business.html","blank","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","streamyx_business.html","","","tiled","tiled");
+endSTMB();
+appendSTMI("true","Application","left","middle","application.jpg","application.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","application.html#application","_self","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","application.html#application","","","tiled","tiled");
+appendSTMI("true","Contact","left","middle","contact.jpg","contact.jpg","100","66","0","normal","transparent","transparent","","1","-1","-1","blank.gif","blank.gif","-1","-1","0","","contact.html#contact","_self","Verdana","10pt","#ffffff","normal","normal","none","Verdana","10pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","contact.html#contact","","","tiled","tiled");
+endSTMB();
+endSTM();
+//-->
+</script>
+===== Segment End =====
+========== HTML Part End ==========
+
